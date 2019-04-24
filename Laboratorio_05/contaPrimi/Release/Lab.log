@@ -1,0 +1,17 @@
+﻿Compilazione avviata 21/11/2017 10:55:37.
+     1>Progetto "C:\Users\Dylan\Documents\Visual Studio 2013\Projects\Calcolatori\vuoto - Copia\Lab.vcxproj" sul nodo 2 (destinazioni: _MASM).
+     1>_MASM:
+         Assembling file.asm...
+         cmd.exe /C "C:\Users\Dylan\AppData\Local\Temp\tmpa8371513a9cc4d058ed695acad1483bd.cmd"
+         ml.exe /c /nologo /Zi /Fo"Release\file.obj" /W3 /errorReport:prompt  /Tafile.asm
+     1>file.asm(6): error A2008: syntax error : in instruction
+     1>file.asm(7): error A2008: syntax error : in instruction
+     1>file.asm(8): error A2008: syntax error : in instruction
+     1>file.asm(9): error A2008: syntax error : in instruction
+     1>file.asm(10): error A2008: syntax error : in instruction
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\BuildCustomizations\masm.targets(50,5): error MSB3721: uscita dal comando "ml.exe /c /nologo /Zi /Fo"Release\file.obj" /W3 /errorReport:prompt  /Tafile.asm" con codice 1.
+     1>Compilazione progetto "C:\Users\Dylan\Documents\Visual Studio 2013\Projects\Calcolatori\vuoto - Copia\Lab.vcxproj" (destinazioni: _MASM) NON COMPLETATA.
+
+Compilazione NON RIUSCITA.
+
+Tempo trascorso 00:00:00.34

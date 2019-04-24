@@ -1,0 +1,2 @@
+﻿  LINK : è stata specificata l'opzione /LTCG ma non è richiesta la generazione del codice; rimuovere /LTCG dalla riga di comando del collegamento per migliorare le prestazioni del linker
+  lab.vcxproj -> C:\Users\Dylan\Documents\Visual Studio 2017\Projects\Calcolatori\opString\Release\lab.exe

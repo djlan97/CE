@@ -1,0 +1,2 @@
+﻿main.obj : error LNK2019: riferimento al simbolo esterno _fattoriale non risolto nella funzione _main
+C:\Users\Dylan\Documents\Visual Studio 2017\Projects\fattoriale\Debug\fattoriale.exe : fatal error LNK1120: 1 esterni non risolti

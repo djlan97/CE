@@ -1,0 +1,13 @@
+﻿Compilazione avviata 28/11/2017 14:41:16.
+     1>Progetto "C:\Users\Dylan\Documents\Visual Studio 2013\Projects\Calcolatori\Laboratorio_05\contaPrimi\Lab.vcxproj" sul nodo 2 (destinazioni: Build).
+     1>_MASM:
+         Assembling file.asm...
+         cmd.exe /C "C:\Users\Dylan\AppData\Local\Temp\tmp168ef859d6c844bfa7001c2755784f24.cmd"
+         ml.exe /c /nologo /Zi /Fo"Debug\file.obj" /W3 /errorReport:prompt  /Tafile.asm
+     1>file.asm(44): error A2006: undefined symbol : fineciclo1
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\BuildCustomizations\masm.targets(50,5): error MSB3721: uscita dal comando "ml.exe /c /nologo /Zi /Fo"Debug\file.obj" /W3 /errorReport:prompt  /Tafile.asm" con codice 1.
+     1>Compilazione progetto "C:\Users\Dylan\Documents\Visual Studio 2013\Projects\Calcolatori\Laboratorio_05\contaPrimi\Lab.vcxproj" (destinazioni: Build) NON COMPLETATA.
+
+Compilazione NON RIUSCITA.
+
+Tempo trascorso 00:00:00.43
